@@ -11,7 +11,7 @@
 ![Alt text](image-1.png)
 
 5. Мигрируйте `build configuration` в репозиторий  
-[build configuration] сслыка settings.kts
+[build configuration] https://github.com/pnagibin/09-ci-05-teamcity/blob/master/.teamcity/settings.kts
 6. Создайте отдельную ветку `feature/add_reply` в репозитории
 7. Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово `hunter`
 8. Дополните тест для нового метода на поиск слова `hunter` в новой реплике
